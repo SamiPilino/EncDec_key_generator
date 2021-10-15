@@ -1,5 +1,5 @@
 #include <fmt/format.h>
-#include <greeter/greeter.h>
+#include <keygenerator/greeter.h>
 
 using namespace greeter;
 
